@@ -1,0 +1,2 @@
+# dailygrid-privacy
+DailyGrid App
